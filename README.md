@@ -12,4 +12,5 @@ Diary.exe - готовый к использованию исполняемый 
 ![image](https://github.com/user-attachments/assets/ebb56c49-46e7-4a14-be60-4ffa70006b8f)
 
 В поисковике присутствует фильтр по времени и по тексту
+
 Все задачи хранятся в базе notes.db
